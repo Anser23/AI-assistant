@@ -1,0 +1,2 @@
+gradio==5.41.1
+groq
