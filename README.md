@@ -1,3 +1,8 @@
+[![Python](https://img.shields.io/badge/python-3.10-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Live-brightgreen?logo=huggingface&logoColor=white)](https://https://huggingface.co/spaces/anser23/AI))
+[![Replit](https://img.shields.io/badge/Replit-Online-black?logo=replit&logoColor=white)](https://replit.com/@ansersamad)
+[![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
+
 # 🚀 Smart Business AI Assistant
 
 An AI-powered chatbot built using **LLaMA 3** with **Groq API**, hosted on **Hugging Face Spaces** using **Gradio**.  
