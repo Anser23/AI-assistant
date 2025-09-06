@@ -14,7 +14,7 @@ def chat_with_ai(message, history):
     messages.append({"role": "user", "content": message})
     try:
         response = client.chat.completions.create(
-            model="llama3-8b-8192",
+            model="llama-3.1-8b-instant",
             messages=messages
         )
         reply = response.choices[0].message.content.strip()
